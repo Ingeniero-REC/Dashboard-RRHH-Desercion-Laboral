@@ -13,7 +13,7 @@ El archivo contiene:
 
 ### Vista general
 
-<img width="1853" height="818" alt="preview_dashboard" src="https://github.com/user-attachments/assets/fe09af25-7ec2-4234-b509-afd7c15781f0" />
+<img width="1743" height="768" alt="Análisis de la Deserción Laboral - Dashboard" src="https://github.com/user-attachments/assets/63e2d487-feae-442f-9b2b-54d30e70972e" />
 
 ## 🎯 Objetivo
 - Analizar la deserción de empleados.
