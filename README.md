@@ -3,6 +3,14 @@
 Este proyecto presenta un **dashboard en Excel** para el análisis de la **deserción laboral**, con el objetivo de identificar
 patrones, factores de riesgo y métricas clave que apoyen la toma de decisiones en el área de Recursos Humanos.
 
+## 📥 Descargar archivo Excel
+El archivo contiene:
+- Dataset base
+- Tablas dinámicas
+- Segmentadores
+- Dashboard final
+- [Descargar dashboard en Excel](https://github.com/Ingeniero-REC/analisis-desercion-laboral-excel/raw/main/data/desercion_laboral.xlsx)
+
 ### Vista general
 
 <img width="1853" height="818" alt="preview_dashboard" src="https://github.com/user-attachments/assets/fe09af25-7ec2-4234-b509-afd7c15781f0" />
